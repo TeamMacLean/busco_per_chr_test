@@ -8,7 +8,8 @@ I took a genome containing chr1, chr2, chr3, chr4, chr5, chr6, chr7, scaf1, scaf
 
 Busco (v4.1.0) analysis of all files were done with exact same parameters. The results is shown below:
 
-|Filename |  DB|       |    Mode  |  Completed |  SingleCopy | Duplicated | Fragmented | Missing |     Total|
+|Filename |  DB | Mode  |  Completed |  SingleCopy | Duplicated | Fragmented | Missing |     Total|
+|-----------|---------|---------|---------|---------|---------|---------|---------|
 |chr1.fasta |   fungi_odb10 | genome | 83(10.9%) |  83(10.9%) |  0(0.0%)  |   2(0.3%)  |   673(88.8%) |  758|
 |chr2.fasta |  fungi_odb10 | genome | 208(27.4%) | 208(27.4%) | 0(0.0%) |    7(0.9%)  |   543(71.7%) |  758|
 |chr3.fasta  |    fungi_odb10 | genome | 119(15.7%) | 119(15.7%) | 0(0.0%)  |   2(0.3%)  |   637(84.0%) |  758|
